@@ -1,5 +1,8 @@
 # :wave: Le Basi di GitHub 
 
+Creazione nuovo Branch
+
+
 ## 🤓 Panoramica della lezione 
 
 L'obiettivo di questa lezione è fornire una breve introduzione a GitHub. Forniremo anche materiale per un ulteriore apprendimento e alcune idee per iniziare a lavorare sulla piattaforma. 🚀
@@ -76,7 +79,7 @@ La community di GitHub è vasta. Ci sono molti tipi di persone che utilizzano Gi
 Se trovi interessante un repository o vuoi tenerne traccia, dagli una stellina! Quando dai una stellina a un repository, viene anche utilizzato come segnale per mostrare migliori raccomandazioni su github.com/explore. Se desideri tornare ai tuoi repository con stellina, puoi farlo tramite il tuo profilo utente.
 Per saperne di più sul dare stelline ai repository, leggi ["Salvare i Repository con Stelle"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars).
 
-#### Seguire gli utenti
+
 
 Puoi seguire persone su GitHub per ricevere notifiche sulla loro attività e scoprire progetti nelle loro community. Quando segui un utente, la sua attività pubblica su GitHub apparirà sulla tua dashboard in modo da poter vedere tutte le cose interessanti su cui stanno lavorando.
 Per saperne di più sul seguire gli utenti, leggi ["Seguire le persone"](https://docs.github.com/en/github/getting-started-with-github/following-people).
